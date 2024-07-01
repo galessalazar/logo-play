@@ -1,0 +1,19 @@
+{
+  "name": "logo-play",
+  "version": "1.0.0",
+  "description": "<a href = 'https://github.com/galessalazar/logo-play'>Github Repo</a></br>",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
