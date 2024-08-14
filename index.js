@@ -59,9 +59,9 @@ const shapes = ['circle', 'triangle', 'square'];
         if (err) {
           console.error(err);
         }else {
-  
-      )}
-    })
+          answers = 'there it is';
+     } })}
+    )
     .catch(error => {
       console.error('Error occurred during prompt:', error);
     });
